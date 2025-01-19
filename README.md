@@ -8,7 +8,7 @@ When I'm not coding, you'll probably find me diving into a good movie, book, or 
 ## 🔧 Technologies & Tools I Use
 
 - **Languages**: Python, Java, HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, VS Code, Eclipse
+- **Tools**: Git, GitHub, VS Code, Eclipse, Godot
 - **Other**: Algorithms, Data Structures, Object-Oriented Programming (OOP), Game Development
 
 ## 📚 Currently Learning
